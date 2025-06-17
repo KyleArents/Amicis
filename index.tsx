@@ -1,1 +1,1 @@
-{code}
+// De content van de canvas code wordt hier straks ingezet door het script.
